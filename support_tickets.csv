@@ -1,0 +1,6 @@
+ticket_id,text,true_tags
+1,Unable to login to account,login_issue
+2,Payment failed during checkout,payment
+3,Website crashing when uploading files,bug
+4,Request to add new feature,feature_request
+5,Need to reset my password,login_issue
